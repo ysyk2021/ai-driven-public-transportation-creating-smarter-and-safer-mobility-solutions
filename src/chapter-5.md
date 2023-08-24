@@ -1,5 +1,3 @@
-Chapter 5: Improving Passenger Experience with AI
-=================================================
 
 In addition to improving safety and efficiency, AI technology can enhance the passenger experience in public transportation. In this chapter, we will explore how AI-powered tools can improve the passenger experience by providing personalized recommendations and assistance for travel, as well as streamlining ticketing and payment processes.
 

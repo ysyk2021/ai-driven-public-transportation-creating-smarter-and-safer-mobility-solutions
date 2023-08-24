@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Driven Public Transportation
-======================================================================
 
 As public transportation systems increasingly rely on AI-driven tools and technologies, it is crucial to prioritize ethical considerations and avoid bias. In this chapter, we will explore the importance of ethical and unbiased public transportation practices and strategies for mitigating risks and ensuring compliance.
 

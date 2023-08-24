@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Safety and Security with AI
-================================================
 
 Ensuring safety and security is a top priority for public transportation operators. AI technology can play a crucial role in enhancing safety and security by automating traffic monitoring, detecting incidents, and enabling automated emergency response. In this chapter, we will explore how AI-powered tools can enhance safety and security in public transportation.
 

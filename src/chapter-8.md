@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI-Driven Public Transportation
-==============================================================================
 
 As AI technology continues to evolve, new opportunities are emerging for AI-driven public transportation and mobility solutions. In this chapter, we will explore the emerging trends in AI for public transportation and the potential opportunities they present.
 

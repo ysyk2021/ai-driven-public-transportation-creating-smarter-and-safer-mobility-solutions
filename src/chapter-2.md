@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Public Transportation
-=====================================================================
 
 AI-powered tools and technologies offer valuable opportunities for enhancing safety, efficiency, and reliability in public transportation. In this chapter, we will explore the available tools and technologies for AI-driven public transportation and how to select the right tools for your public transportation needs.
 

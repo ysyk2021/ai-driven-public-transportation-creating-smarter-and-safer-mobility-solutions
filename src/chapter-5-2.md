@@ -1,5 +1,3 @@
-Automated Ticketing and Payment using AI
-===========================================================================================
 
 In addition to improving safety and efficiency, AI technology can also enhance the passenger experience in public transportation. In this chapter, we will explore how AI-powered tools can automate ticketing and payment processes, making it more convenient and efficient for passengers.
 

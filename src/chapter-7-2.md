@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-================================================================================================================
 
 As public transportation systems increasingly rely on AI-driven tools and technologies, it is crucial to mitigate risks and ensure compliance with ethical and legal standards. In this chapter, we will explore strategies for managing ethics and bias in AI-driven public transportation and ensuring compliance with relevant regulations.
 

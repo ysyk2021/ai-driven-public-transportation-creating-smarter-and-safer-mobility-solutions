@@ -1,5 +1,3 @@
-Importance of Ethical and Unbiased Public Transportation Practices
-==========================================================================================================================================
 
 As public transportation systems increasingly rely on AI-driven tools and technologies, it is essential to ensure that these systems operate ethically and without bias. In this chapter, we will explore the importance of ethical and unbiased public transportation practices in managing ethics and bias in AI-driven public transportation.
 

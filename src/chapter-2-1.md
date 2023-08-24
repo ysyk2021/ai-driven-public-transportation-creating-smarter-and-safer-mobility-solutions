@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-===================================================================================================================
 
 AI-powered tools and technologies offer valuable opportunities for enhancing safety, efficiency, and reliability in public transportation. In this chapter, we will provide an overview of the available tools and technologies for AI-driven public transportation.
 

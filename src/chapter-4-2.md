@@ -1,5 +1,3 @@
-Automated Emergency Response using AI
-=======================================================================================
 
 AI technology can play a critical role in enhancing safety and security in public transportation. In this chapter, we will explore how AI-powered tools can automate emergency response processes, improving response times and reducing the risk of harm to passengers.
 

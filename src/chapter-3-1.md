@@ -1,5 +1,3 @@
-Using AI for Optimal Route Planning and Scheduling
-===========================================================================================================================
 
 Public transportation operators face the challenge of providing efficient and reliable services to passengers. AI-powered tools can help address this challenge by optimizing transit routes and schedules in real-time. In this chapter, we will explore how AI can be used for optimal route planning and scheduling.
 

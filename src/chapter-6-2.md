@@ -1,5 +1,3 @@
-Automated Fleet Management and Optimization using AI
-================================================================================================================
 
 Effective fleet management is essential for ensuring the safety, efficiency, and reliability of public transportation systems. In this chapter, we will explore how AI can be used to automate fleet management and optimize operations.
 

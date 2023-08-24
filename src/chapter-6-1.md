@@ -1,5 +1,3 @@
-AI-Driven Predictive Maintenance and Asset Management
-=================================================================================================================
 
 One of the significant challenges in public transportation is maintaining vehicles and equipment to ensure safety, reliability, and efficiency. AI-powered predictive maintenance and asset management can help address this challenge by detecting potential issues before they become major problems. In this chapter, we will explore how AI can be used for predictive maintenance and asset management in public transportation.
 

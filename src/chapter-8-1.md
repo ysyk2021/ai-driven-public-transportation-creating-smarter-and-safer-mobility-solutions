@@ -1,5 +1,3 @@
-Emerging Trends in AI for Public Transportation and Mobility Solutions
-======================================================================================================================================================
 
 As technology continues to evolve, new opportunities are emerging for AI-driven public transportation and mobility solutions. In this chapter, we will explore some of the emerging trends in AI for public transportation and the potential opportunities they present.
 

@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the role of AI in public transportation and how it can be used to enhance safety, efficiency, and reliability while improving the passenger experience and reducing environmental impact. We have also discussed strategies for managing ethics and bias in AI-driven public transportation and emerging trends in AI for public transportation and mobility solutions. In this final chapter, we will recap the key takeaways from this book and encourage public transportation operators to implement AI-driven techniques and strategies.
 

@@ -1,5 +1,3 @@
-Chapter 6: Streamlining Maintenance and Operations with AI
-==========================================================
 
 AI technology can also improve maintenance and operations in public transportation. In this chapter, we will explore how AI-powered tools can streamline maintenance and operations processes, reducing costs and improving efficiency.
 

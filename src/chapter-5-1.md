@@ -1,5 +1,3 @@
-AI-Driven Personalized Travel Assistance
-===========================================================================================
 
 In addition to automating ticketing and payment processes, AI technology can also provide personalized travel assistance to passengers. In this chapter, we will explore how AI-powered tools can enhance the passenger experience by providing personalized recommendations and assistance for travel.
 

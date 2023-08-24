@@ -1,5 +1,3 @@
-Understanding the Role of AI in Public Transportation
-=================================================================================================================
 
 AI-powered tools and technologies are increasingly being applied in public transportation systems worldwide. In this chapter, we will explore the role of AI in public transportation and how it can be used to enhance safety, efficiency, and reliability.
 
